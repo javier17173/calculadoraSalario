@@ -139,7 +139,7 @@ int main(int argc, char** argv) {
 			scanf("%i", &opcionMenu);
 			printf("\n");
 					
-	}while (opcionMenu != 2);
+	}while (opcionMenu == 1);
 	
 	
 	printf("\n");
